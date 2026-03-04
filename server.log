@@ -1,0 +1,45 @@
+
+> teacher-report-generator@1.0.0 start
+> node api.js
+
+Server running at http://localhost:3000
+Attempting to fetch ALL students from database ID: 1abd37d666308071bfe1e37d1d155035
+Fetched 100 students in this batch
+Fetched 100 students in this batch
+Fetched 80 students in this batch
+Total students fetched: 280
+Sample student: {
+  id: '1abd37d6-6630-80cd-bef1-ecea9d7d250a',
+  fullName: 'Ahn Jay (Jay) [안재이]',
+  studentId: 'ICN-ST-43'
+}
+Attempting to fetch ALL students from database ID: 1abd37d666308071bfe1e37d1d155035
+Fetched 100 students in this batch
+Fetched 100 students in this batch
+Fetched 80 students in this batch
+Total students fetched: 280
+Sample student: {
+  id: '1abd37d6-6630-80cd-bef1-ecea9d7d250a',
+  fullName: 'Ahn Jay (Jay) [안재이]',
+  studentId: 'ICN-ST-43'
+}
+Attempting to fetch ALL students from database ID: 1abd37d666308071bfe1e37d1d155035
+Fetched 100 students in this batch
+Fetched 100 students in this batch
+Fetched 80 students in this batch
+Total students fetched: 280
+Sample student: {
+  id: '1abd37d6-6630-80cd-bef1-ecea9d7d250a',
+  fullName: 'Ahn Jay (Jay) [안재이]',
+  studentId: 'ICN-ST-43'
+}
+Attempting to fetch ALL students from database ID: 1abd37d666308071bfe1e37d1d155035
+Fetched 100 students in this batch
+Fetched 100 students in this batch
+Fetched 80 students in this batch
+Total students fetched: 280
+Sample student: {
+  id: '1abd37d6-6630-80cd-bef1-ecea9d7d250a',
+  fullName: 'Ahn Jay (Jay) [안재이]',
+  studentId: 'ICN-ST-43'
+}
